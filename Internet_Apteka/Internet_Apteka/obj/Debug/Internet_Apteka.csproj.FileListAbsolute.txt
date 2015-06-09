@@ -1,0 +1,23 @@
+d:\мои документы\visual studio 2010\Projects\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.dll
+d:\мои документы\visual studio 2010\Projects\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.pdb
+d:\мои документы\visual studio 2010\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\ResolveAssemblyReference.cache
+d:\мои документы\visual studio 2010\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.dll
+d:\мои документы\visual studio 2010\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.pdb
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.dll
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.pdb
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.dll
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.pdb
+C:\Users\Natalia\Documents\Visual Studio 2012\Projects\Internet_Apteka\Internet_Apteka\bin\MSCaptcha.xml
+E:\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.dll
+E:\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.pdb
+E:\Internet_Apteka\Internet_Apteka\bin\MSCaptcha.xml
+E:\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.csprojResolveAssemblyReference.cache
+E:\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.dll
+E:\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.pdb
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.dll
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\bin\Internet_Apteka.pdb
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\bin\MSCaptcha.xml
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.csprojResolveAssemblyReference.cache
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.dll
+C:\Users\asustud\Desktop\Internet_Apteka\Internet_Apteka\obj\Debug\Internet_Apteka.pdb
